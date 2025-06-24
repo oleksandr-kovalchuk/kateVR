@@ -1,0 +1,2 @@
+for(var e=function(e){n[e].addEventListener("click",function(){t[e].classList.toggle("dropdown--active")})},t=document.querySelectorAll(".dropdown"),n=document.querySelectorAll(".dropdown__trigger"),o=document.querySelectorAll(".in-process"),r=0;r<n.length;r++)e(r);for(var l=0;l<o.length;l++)o[l].addEventListener("click",function(){window.alert("The feature is still under development")});
+//# sourceMappingURL=index.e40bdc35.js.map
